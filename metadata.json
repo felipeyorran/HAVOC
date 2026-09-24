@@ -1,0 +1,8 @@
+{
+  "name": "HAVOC Sensi",
+  "description": "Gerador de sensibilidade para Free Fire com personalização por marca e armas, DPI, botão de tiro, verificador de desempenho e perfis salvos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
